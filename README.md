@@ -1,1 +1,1 @@
-SMIT Flutter Assignments
+SMIT Flutter/Dart Assignments
